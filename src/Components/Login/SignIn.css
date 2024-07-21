@@ -1,0 +1,7 @@
+@import url("primereact/resources/themes/soho-dark/theme.css");
+@import url("/node_modules/primeflex/primeflex.css");
+
+
+.Login_log .buut_btn .btn{
+    padding: 10px 40px ;
+}

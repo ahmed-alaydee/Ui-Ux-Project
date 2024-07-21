@@ -1,0 +1,186 @@
+.Thrid_Section{
+    margin-top: 15%;
+}
+
+.Thrid_Section .section_photo img{
+    width: 350px;
+    height: 350px;
+}
+ 
+.Thrid_Section  .Section_Text{
+    margin-top: 17%;
+}
+.Thrid_Section  .Section_Text p {
+color: #71E5FF;
+font-size: 16px;
+font-family: 500;
+}
+
+.Thrid_Section  .Section_Text h2{
+    color: #F49867;
+    background: linear-gradient(102deg,#AE67FA, #F49867);
+    -webkit-background-clip:text;
+    -webkit-text-fill-color:transparent;
+font-size: 34px;
+font-weight: 800;
+line-height: 45px;
+margin-bottom: 7%;
+}
+.Thrid_Section  .Section_Text h3{
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+color: #81AFDD;
+margin-bottom: 5%;
+}
+.Thrid_Section  .Section_Text h5{
+    color: #FF8A71;
+    font-weight: 500;
+font-size: 16px;
+line-height: 30px;
+margin-bottom: 5%;
+}
+
+/*----------------------Third_Section_Two--------------------------------------*/
+
+
+.Third_Section_Two{
+    margin: 25% auto;
+height: 40vh;
+width: 100%;
+border-radius: 10px;
+    background: linear-gradient(102deg,#AE67FA, #F49867);
+}
+
+.Third_Section_Two .conten_con{
+    margin: 25px auto;
+padding: 25px 0 ;
+}
+
+.Third_Section_Two .conten_con p{
+    font-size: 12px;
+    line-height: 30px;
+    font-weight: 500;
+}
+
+
+.Third_Section_Two .conten_con h2{
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 45px;
+ 
+}
+
+
+.Third_Section_Two .btn_btn2{
+    background-color: #000;
+    color: #fff;
+    padding: 15px 45px;
+    border-radius: 20px;
+    margin-top: 30px;
+transition: 0.4s;
+}
+
+.Third_Section_Two .btn_btn2:hover{
+    transform: scale(1.1);
+    background-color: #ce0000;
+}
+
+/*-----------------------------------section_four---------------------------------------------------*/
+.section_four {
+    margin-bottom: 14%;
+}
+.section_four h1{
+color: #F49867;
+background: linear-gradient(102deg,#AE67FA, #F49867);
+-webkit-background-clip:text;
+-webkit-text-fill-color:transparent;
+font-size: 60px;
+line-height: 75px;
+font-weight: 700;
+margin-bottom: 9%;
+}
+
+.section_four  .Card_1{
+    background-color: #042C54;
+    color: #fff;
+    height:100vh;
+    margin-top: 20%;
+}
+.section_four  .Card_1 img{
+    transition: 0.4s;
+    border-radius: 5px;
+}
+.section_four  .Card_1 img:hover{
+    transform: scale(1.1);
+    border-radius: 5px;
+}
+
+
+.section_four  .text_tx h2{ 
+    margin-bottom: 130px;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 30px;
+}
+
+.section_four  .text_tx h5{
+font-size: 12px;
+line-height: 34px;
+}
+
+/*===========*/
+.section_four  .text_txtow .card_2{
+    background-color: #042C54;
+    color: #fff;
+    margin-top: 2%;
+    margin-bottom: 12%;
+}
+
+.section_four  .text_txtow .card_3{
+    background-color: #042C54;
+    color: #fff;
+}
+
+
+.section_four  .text_txtow img{
+    transition: 0.4s;
+    border-radius: 5px;
+}
+.section_four  .text_txtow img:hover{
+    transform: scale(1.1);
+    border-radius: 5px;
+}
+.section_four  .text_txtow h2{
+    font-size: 19px;
+    line-height: 30px;
+}
+.section_four  .text_txtow  h5{
+    font-size: 12px;
+line-height: 34px;
+}
+
+/*Scrollbar*/
+::-webkit-scrollbar{
+    width: 30px;
+   
+}
+::-webkit-scrollbar-track{
+    background-color: #0000008a;
+    box-shadow: 0 0 10px #ddd inset;
+}
+::-webkit-scrollbar-thumb{
+    background-color:#042C54;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+::-webkit-scrollbar-thumb:hover{
+
+    background-color: #0858a7;
+    border-radius: 10px;
+}
+
+/* end  Scrollbar*/
+
+

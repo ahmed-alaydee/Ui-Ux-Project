@@ -1,0 +1,43 @@
+
+
+.Nav_bar{
+    background-color: var(--secondary-color);
+    color: #fff;
+    
+}
+.Nav_bar ul li a{
+    color: var(--primary-color);
+}
+
+.Nav_bar .navbar-brand{
+    margin-right: 5%;
+}
+
+.Nav_bar ul li{
+    transition: 0.4s;
+}
+
+
+.Nav_bar ul li:hover{
+    background-color: red;
+    color: #fff;
+    border-radius: 10px;
+}
+
+/*Mood and light style */
+:root{
+    /*
+    --primary-color:#fff;
+    --secondary-color:#040C18;*/
+
+    --primary-color:#fff;
+    --secondary-color:#000106;
+}
+
+#icon{
+    margin-right: 20px;
+    font-size:28px;
+    color: rgb(48, 48, 48);
+    cursor: pointer;
+    
+}
